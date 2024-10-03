@@ -1,6 +1,6 @@
 # <span style="color:purple;">🚀 Markdown Showcase by CodeWizard 🚀</span>
 
-！(https://avatars.githubusercontent.com/u/166947740?s=400&u=e80504eeaeb028d22d0b80e6bc6130374ea85372&v=4)
+!(https://avatars.githubusercontent.com/u/166947740?s=400&u=e80504eeaeb028d22d0b80e6bc6130374ea85372&v=4)
 
 ## 👋 自我介绍
 
