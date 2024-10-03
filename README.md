@@ -46,6 +46,6 @@
 ---
 
 <div align="right">
-    <em>— CodeWizard, the Digital Sorcerer</em>
+    <em>— LBHUYDEVB, A GAMEER </em>
 </div>
 ![图片名称]( https://avatars.githubusercontent.com/u/166947740?s=400&u=de2a0aa2659e3d1129125aeef30c5bb0f5b4d7b1&v=4 )
