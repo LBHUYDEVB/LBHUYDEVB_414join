@@ -1,17 +1,17 @@
-# <span style="color:purple;">🚀 Markdown Showcase by CodeWizard 🚀</span>
+# <span style="color:purple;">🚀 Markdown by LBHUYDEVB 🚀</span>
 
 <div align="center">
-    <h2>CodeWizard</h2>
+    <h2>LBHUYDEVB</h2>
     <p><em>Dream of becoming a game production master</em></p >
 </div>
 
 ## 👋 自我介绍
 
-嗨，我是 **CodeWizard**！一个在代码世界里遨游的魔法师，擅长用编程语言编织现实与数字的桥梁。我对技术的热爱，就如同巫师对魔法的痴迷，无尽的探索是我永恒的咒语。
+嗨，我是 **LBHUYDEVB**！是大一数字媒体技术1班**万浩哲**!GitHub名称是**LBHUYDEVB**所有的社交平台和游戏账户都是这个名字
 
 ### ✨ 加入游戏制作社团的愿景
 
-在踏入 **游戏制作社团** 的神秘殿堂之际，我心中怀揣着对游戏艺术的无限向往与追求。以下是我渴望在此社团中汲取的知识甘露与资源宝藏：
+在踏入 **414** 的神秘殿堂之际，我心中怀揣着对游戏艺术的无限向往与追求。以下是我渴望在此社团中汲取的知识甘露与资源宝藏：
 
 #### 1. **🎮 游戏设计原理**
 
@@ -41,10 +41,11 @@
 
 ---
 
-🌈 总结而言，我期待在 **游戏制作社团** 的旅途中，不仅能深化我的技术栈，更能与一群热爱游戏、充满激情的伙伴们共同成长，携手打造出令人惊叹的游戏作品。让我们一起，用代码编织梦想，用创意点亮未来！
+🌈 总结而言，我期待在 **414** 的旅途中，不仅能深化我的技术栈，更能与一群热爱游戏、充满激情的伙伴们共同成长，携手打造出令人惊叹的游戏作品。让我们一起，用代码编织梦想，用创意点亮未来！
 
 ---
 
 <div align="right">
     <em>— CodeWizard, the Digital Sorcerer</em>
 </div>
+![图片名称]( https://avatars.githubusercontent.com/u/166947740?s=400&u=de2a0aa2659e3d1129125aeef30c5bb0f5b4d7b1&v=4 )
