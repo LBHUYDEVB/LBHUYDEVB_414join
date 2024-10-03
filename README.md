@@ -1,6 +1,10 @@
 # <span style="color:purple;">🚀 Markdown Showcase by CodeWizard 🚀</span>
 
-!(https://avatars.githubusercontent.com/u/166947740?s=400&u=e80504eeaeb028d22d0b80e6bc6130374ea85372&v=4)
+<div align="center">
+    < img class=" long-press-able-img " src="https://via.placeholder.com/150" alt="CodeWizard's Avatar" style="border-radius:50%;">
+    <h2>CodeWizard</h2>
+    <p><em>Master of the Arcane Arts of Programming</em></p >
+</div>
 
 ## 👋 自我介绍
 
